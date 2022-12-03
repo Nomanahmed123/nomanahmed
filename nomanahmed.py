@@ -51,8 +51,8 @@ def notice():
 
 	runtxt("\n\033[0;91m🧞‍♀️YOU ARE NOT PREMIUM USER ")
 	runtxt("\033[0;93m 🔇 SENT THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
-	runtxt("\033[0;92m ADMIN🧞‍♀️ MESSENGER🔰🥰https://m.me/white.hat.hacker.Rihan")
-	subprocess.check_output(["am", "start", "https://m.me/white.hat.hacker.Rihan"])
+	runtxt("\033[0;92m ADMIN🧞‍♀️ MESSENGER🔰🥰https://www.facebook.com/profile.php?id=100087416119117")
+	subprocess.check_output(["am", "start", "https://www.facebook.com/profile.php?id=100087416119117"])
 
 def irfan():
 	
@@ -112,7 +112,7 @@ class Main:
 \033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mWARNING  : BYPASS BY RIHAN
 \033[1;90m══════════════════════════════════════════════════
     """)
-		print("%s [%s•%s] %sTOOL NAME : %sRIHAN❌ PROO CLONER❌"%(G,R,G,B,G))
+		print("%s [%s•%s] %sTOOL NAME : %sNOMAN❌ PROO CLONER❌"%(G,R,G,B,G))
 		print("%s [%s•%s] %sVERSION   : %s2.0"%(G,R,G,B,G))
 		print("%s [%s•%s] %sYOUR KEY  : %s%s"%(G,R,G,B,G,key))
 		print("%s [%s•%s] %sSTATUS    : %s"%(G,R,G,B,stat)) 
